@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ABHAY CHATURVEDI
 - 👀 I’m interested in Machine Learning, Deep Learning & AI.
-- 🌱 I’m currently pursuing Bachelor's in Technology in Electronics & Communication and have done specialization Courses in the field of Data Science & AI.
+- 🌱 I’m have completed my Bachelor's Degree in Electronics & Communication Engineering and have done specialization Courses in the field of Data Science & AI.
 - 💞️ I’m looking forward for job profiles as a Data Engineer/ Data Scientist/ Data Analyst/ Machine Learning Engineering.
 - 📫 Reach me via LinkedIn @ https://www.linkedin.com/in/abhaychaturvedi09/
 
